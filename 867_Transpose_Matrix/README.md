@@ -19,6 +19,7 @@ The transpose of a matrix is the matrix flipped over it's main diagonal, switchi
 <code>
 <strong>Input:</strong>
 [[1,2,3],[4,5,6]]
+ 
 <strong>Output: </strong>
 [[1,4],[2,5],[3,6]]
  </code>
