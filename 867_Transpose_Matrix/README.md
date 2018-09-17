@@ -26,12 +26,7 @@ The transpose of a matrix is the matrix flipped over it's main diagonal, switchi
  
 <strong>Note:</strong>
 
-<<<<<<< HEAD
 <ol>
 <li>1 <= A.length <= 1000</li>
 <li>1 <= A[0].length <= 1000</li>
 </ol>
-=======
-1 <= A.length <= 1000
-1 <= A[0].length <= 1000
->>>>>>> 665287a0c2e016de5b953f82bf5e6a8a123705cc
