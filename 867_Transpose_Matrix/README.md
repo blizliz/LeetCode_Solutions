@@ -4,7 +4,7 @@ The transpose of a matrix is the matrix flipped over it's main diagonal, switchi
 
  
 
-<strong>Example 1: </strong>>
+<strong>Example 1: </strong>
 
 <code>
 <strong>Input:</strong>
@@ -13,7 +13,7 @@ The transpose of a matrix is the matrix flipped over it's main diagonal, switchi
 [[1,4,7],[2,5,8],[3,6,9]]
 </code>
 
-<strong>Example 2: </strong>>
+<strong>Example 2: </strong>
 
 <code>
 <strong>Input:</strong>
@@ -22,7 +22,7 @@ The transpose of a matrix is the matrix flipped over it's main diagonal, switchi
 [[1,4],[2,5],[3,6]]
  </code>
  
-<strong>Note:</strong>>
+<strong>Note:</strong>
 
 1 <= A.length <= 1000
 1 <= A[0].length <= 1000
