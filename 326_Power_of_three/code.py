@@ -4,10 +4,5 @@ class Solution:
         :type n: int
         :rtype: bool
         """
-        if n == 0: return False
-        
-        while n != 1:
-            if n % 3 != 0: return False
-            n //= 3
-            
-        return True
+        if not n or n < 0: return False
+        return (math.log10(n) / math.log10(3)) % 1 == 0;
